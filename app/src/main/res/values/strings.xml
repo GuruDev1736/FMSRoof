@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FMS Roof</string>
+    <string name="welcome_title">Advanced Water Storage Roofing Solutions</string>
+    <string name="welcome_subtitle">Transforming rooftops into sustainable water reservoirs. Our innovative roofing technology combines durability, efficiency, and environmental responsibility.</string>
+    <string name="lets_go">Let\'s Go</string>
+    <string name="website_url">https://fms-roof.nalghaevotech.in/</string>
+    <string name="plumbing_service">Interior Cleaning</string>
+    <string name="ac_service">Exterior Wash</string>
+    <string name="service_description">Professional &amp; Reliable</string>
+    <string name="trusted_experts">Trusted Build Quality</string>
+</resources>
